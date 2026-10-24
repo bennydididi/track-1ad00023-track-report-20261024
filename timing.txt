@@ -1,0 +1,16 @@
+start 2026-10-24 08:23:58 CST
+slug lawn-care-quote
+name 草坪护理报价与服务范围说明书
+kw expand attempt 1 2026-10-24 08:23:58 CST
+kw expand done 2026-10-24 08:32:38 CST
+serp start 2026-10-24 08:32:38 CST
+serp done ec=0 2026-10-24 10:02:31 CST
+kw expand attempt 1 2026-10-24 10:02:31 CST
+kw expand attempt 2 2026-10-24 10:06:19 CST
+kw expand done 2026-10-24 10:07:50 CST
+serp skip already present 2026-10-24 10:07:50 CST
+report start 2026-10-24 10:07:50 CST
+
+report done 2026-10-24 10:21:03 CST; score 76; report elapsed 13分13秒; total 117分5秒
+report end 2026-10-24 10:21:13 CST 用时 13 分钟
+done lawn-care-quote 2026-10-24 10:21:13 CST
